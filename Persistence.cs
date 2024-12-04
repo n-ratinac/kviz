@@ -1,0 +1,5 @@
+class Persistence{
+    public Persistence(){
+        //...
+    }
+}

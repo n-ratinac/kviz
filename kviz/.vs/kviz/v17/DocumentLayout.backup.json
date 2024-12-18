@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Lena\\kviz\\kviz\\kviz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Lena\\kviz\\kviz\\kviz\\kviz\\QuestionBank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kviz\\QuestionBank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50B8B172-D0A8-4B58-8F91-5CC56B887BB1}|kviz\\kviz.csproj|d:\\lena\\kviz\\kviz\\kviz\\kviz\\questionbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B8B172-D0A8-4B58-8F91-5CC56B887BB1}|kviz\\kviz.csproj|solutionrelative:kviz\\questionbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,10 @@
               "RelativeDocumentMoniker": "kviz\\QuestionBank.cs",
               "ToolTip": "D:\\Lena\\kviz\\kviz\\kviz\\kviz\\QuestionBank.cs",
               "RelativeToolTip": "kviz\\QuestionBank.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T00:53:33.593Z"
+              "WhenOpened": "2024-12-12T00:57:21.093Z",
+              "EditorCaption": ""
             }
           ]
         }
